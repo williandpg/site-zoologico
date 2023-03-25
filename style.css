@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+#first-block {
+    background-color: aquamarine;
+    text-align: center;
+    width: 400px;
+    border: 5px solid;
+    display: inline-block;
+}
+#second-block {
+    background-color: aquamarine;
+    text-align: center;
+    width: 400px;
+    border: 5px solid;
+    display: inline-block;
+}
+div {
+    margin: 25px;
+}
+img {
+    width: 350px;
+    margin: 40px;
+    display: inline-block;
+}
+footer {
+    background-color: aquamarine;
+    padding: 40px;
+    text-align: center;
+}
+ #nome-baixo {
+    float: left;
+ }
+ #whatsapp {
+    float: right;
+ }
