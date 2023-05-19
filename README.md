@@ -1,26 +1,12 @@
-## Atividade - Site zoológico :computer:
+# Atividade - Site Zoológico
 
-### :pencil: Descrição da atividade:
+Este é o repositório da primeira atividade na Trybe, onde desenvolvemos um site para atender às necessidades da empresa. A atividade consiste em criar um site simples contendo informações sobre o zoológico, de acordo com as especificações fornecidas pela cliente.
 
-Fazer um site de acordo com o que foi requisitado pela empresa.
+## Descrição da Atividade
+A empresa solicitou a criação de um site para o zoológico, com algumas informações específicas. A cliente forneceu um e-mail com os detalhes necessários para a construção do site. Nossa responsabilidade é planejar e dividir os itens a serem feitos, seguindo uma abordagem passo a passo.
 
-### :speech_balloon: Cenário:
 
-Depois do trabalho M-A-R-A-V-I-L-H-O-S-O que vocês fizeram gerando aquele relatório do zoológico, a empresa quis dar um passo além e pedir para que façam um site simples contendo algumas informações sobre o zoológico.
-
-Aqui teremos descrito alguns pontos que esse site deverá ter, mas preste bem atenção.
-
-O e-mail da empresa tem tudo que será necessário no site, mas o planejamento é responsabilidade sua e você precisa separar cada item a ser feito, fazendo uma certa divisão, ou seja, coloque o passo 1, passo 2... Assim como temos feito na duas últimas atividades da Academia de Lógica.
-
-Por exemplo:
-
-```
-Passo/Requisito 1: Criar cabeçalho do site
-Passo/Requisito 2: .....
-```
-
-### E-mail da Cliente: :email:
-
+## E-mail da Cliente: :email:
 ```
 Olá, boa tarde!
 Meu nome é Morgana e preciso de um site para meu zoológico, além do ultimo relatório que você fez irei precisar de algumas informações no meu site! 
@@ -33,16 +19,21 @@ Além das duas fotos que comentei antes, também vou enviar uma terceira, com um
 Confere por lá como quero o site, por gentileza. Tenho certeza que fará um ótimo trabalho, e estou ansiosa para verificar o resultado no repositório que irá compartilhar comigo depois :)
 Obrigada!
 ````
-
+## Esboço do site
 ![Imagem](img/esboco-site-zoologico.png)
 
-Obs: Os arquivos estão na mesma pasta dessa atividade, dentro da pasta `img/`.
+## Passos/Requisitos
+A seguir, estão os passos/requisitos a serem seguidos para a criação do site:
 
-------------
+- Criar o cabeçalho do site.
+- Adicionar os dois blocos de texto, um contendo o relatório dos animais e o outro com informações do zoológico.
+- Incluir o nome do zoológico, "Animals Zoo", no topo do site.
+- Criar uma seção de imagens do zoológico, colocando duas imagens lado a lado.
+- Adicionar novamente o nome do zoológico, o telefone de contato e um link que redirecione para o WhatsApp no final do site.
+- Utilizar informações genéricas temporariamente para o telefone e o link.
+ 
+## Autor
+Willian Gonçalves - Desenvolvedor(a) do projeto
 
-### Depois dessa divisão de "requisitos” vamos para a prática! 
 
-- Crie um repositório no github, chamado site-zoologico.
-- **Adicione um README a esse repositório**.
-- Clone esse repositório.
-- Crie um arquivo `index.html` e comece o site da cliente.
+Esperamos que esse projeto seja um sucesso e atenda às expectativas da cliente!
